@@ -1,0 +1,46 @@
+title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    color: black;
+}
+
+*{
+    font-family: sans-serif;
+    background-color: grey;
+}
+#frst{
+    text-decoration: underline black;
+}
+#scnd{
+    font-style: oblique;
+}
+h3{
+    text-decoration:underline;
+    border: 8px double balck;
+}
+.frtt{
+    border: 8px double black;
+}
+#table2{
+    border:4px double black ;
+    color: aqua;
+}
+.divde{
+    border:8px double black ;
+}
+#ol1{
+    color: teal;
+}
+.gig{
+    border: 8px double black;
+}
+#penis{
+ border: 8px double black;   
+}
+.punta{
+    border: 8px double black;
+}
+a[href="https://en.wikipedia.org/wiki/Playboi_Carti"]{
+    color: pink;
+}
